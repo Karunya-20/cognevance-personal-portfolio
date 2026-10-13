@@ -1,0 +1,1 @@
+Capture genuine screenshots after running the project: home, about/skills/projects, contact form, successful form submission, and MongoDB saved record.
